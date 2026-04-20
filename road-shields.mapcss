@@ -1,6 +1,6 @@
 meta {
     title: "Road shields";
-    icon: "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Japanese_National_Route_Sign_Blank.svg";
+    icon: "https://upload.wikimedia.org/wikipedia/commons/8/8c/Japanese_National_Route_Sign_Blank.svg";
     version: "0.4.0";
     description: "Render road shields adjacent their respective ways.";
     author: "mayhaps-perchance";
